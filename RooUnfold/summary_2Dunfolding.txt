@@ -1,0 +1,104 @@
+Subtract -1.46e-08 fakes from measured distribution
+SVD init 6 x 6 bins, kreg=3
+========= Variable: lepChargeAsym===================
+ Data: 0.0109 +/-  0.00505
+ True Top: -0.00121 +/-  0.00103
+ Unfolded: 0.0118 +/-  0.00697
+ True Top from acceptance denominator: -0.001 +/-  0.00324
+0 AFB = 0.00686 +/- 0.00411
+1 AFB = 0.0151 +/- 0.0092
+2 AFB = 0.0187 +/- 0.0126
+ True Top 0 from acceptance denominator: 0.00038 +/-  0.00462
+ True Top 1 from acceptance denominator: -0.00176 +/-  0.00616
+ True Top 2 from acceptance denominator: -0.00305 +/-  0.00675
+Subtract -3.15e-08 fakes from measured distribution
+SVD init 6 x 6 bins, kreg=3
+========= Variable: lepAzimAsym2===================
+ Data: 0.233 +/-  0.00491
+ True Top: 0.672 +/-  0.000581
+ Unfolded: 0.661 +/-  nan
+ True Top from acceptance denominator: 1 +/-  0
+0 AFB = 0.539 +/- nan
+1 AFB = 0.704 +/- nan
+2 AFB = 0.816 +/- nan
+ True Top 0 from acceptance denominator: 1 +/-  0
+ True Top 1 from acceptance denominator: 1 +/-  0
+ True Top 2 from acceptance denominator: 1 +/-  0
+Subtract -3.06e-08 fakes from measured distribution
+SVD init 6 x 6 bins, kreg=3
+========= Variable: lepPlusCosTheta===================
+ Data: 0.0274 +/-  0.00505
+ True Top: 0.000361 +/-  0.00103
+ Unfolded: -0.00105 +/-  0.0104
+ True Top from acceptance denominator: 0.000361 +/-  0.00324
+0 AFB = -0.000337 +/- 0.00514
+1 AFB = -0.00316 +/- 0.0134
+2 AFB = -5.7e-05 +/- 0.0185
+ True Top 0 from acceptance denominator: 0.000679 +/-  0.00462
+ True Top 1 from acceptance denominator: -0.00114 +/-  0.00616
+ True Top 2 from acceptance denominator: 0.00149 +/-  0.00675
+Subtract -2.99e-08 fakes from measured distribution
+SVD init 6 x 6 bins, kreg=3
+========= Variable: lepMinusCosTheta===================
+ Data: 0.0339 +/-  0.00505
+ True Top: -0.000477 +/-  0.00103
+ Unfolded: 0.0178 +/-  0.0106
+ True Top from acceptance denominator: -0.000477 +/-  0.00324
+0 AFB = 0.0065 +/- 0.00543
+1 AFB = 0.0221 +/- 0.0138
+2 AFB = 0.0363 +/- 0.0185
+ True Top 0 from acceptance denominator: -0.000711 +/-  0.00462
+ True Top 1 from acceptance denominator: -0.0011 +/-  0.00616
+ True Top 2 from acceptance denominator: 0.000766 +/-  0.00675
+Subtract 1.34e-07 fakes from measured distribution
+SVD init 6 x 6 bins, kreg=3
+========= Variable: lepCosTheta===================
+ Data: 0.0306 +/-  0.00357
+ True Top: -5.8e-05 +/-  0.000727
+ Unfolded: 0.00837 +/-  0.0071
+ True Top from acceptance denominator: -5.79e-05 +/-  0.00229
+0 AFB = 0.00308 +/- 0.00362
+1 AFB = 0.00946 +/- 0.00917
+2 AFB = 0.018 +/- 0.0125
+ True Top 0 from acceptance denominator: -1.58e-05 +/-  0.00327
+ True Top 1 from acceptance denominator: -0.00112 +/-  0.00436
+ True Top 2 from acceptance denominator: 0.00113 +/-  0.00478
+Subtract -2.01e-08 fakes from measured distribution
+SVD init 6 x 6 bins, kreg=3
+========= Variable: topSpinCorr===================
+ Data: -0.0481 +/-  0.00505
+ True Top: -0.0573 +/-  0.00102
+ Unfolded: -0.0638 +/-  0.0124
+ True Top from acceptance denominator: -0.0573 +/-  0.00324
+0 AFB = -0.0913 +/- 0.00613
+1 AFB = -0.0575 +/- 0.0161
+2 AFB = -0.0145 +/- 0.0215
+ True Top 0 from acceptance denominator: -0.0896 +/-  0.00461
+ True Top 1 from acceptance denominator: -0.0489 +/-  0.00616
+ True Top 2 from acceptance denominator: 0.00168 +/-  0.00675
+Subtract -2.88e-08 fakes from measured distribution
+SVD init 6 x 6 bins, kreg=3
+========= Variable: rapiditydiffMarco===================
+ Data: 0.00696 +/-  0.00505
+ True Top: -0.00351 +/-  0.00103
+ Unfolded: 0.00741 +/-  0.0107
+ True Top from acceptance denominator: -0.00351 +/-  0.00324
+0 AFB = 0.00266 +/- 0.00531
+1 AFB = 0.00969 +/- 0.0138
+2 AFB = 0.0146 +/- 0.0185
+ True Top 0 from acceptance denominator: -0.00247 +/-  0.00462
+ True Top 1 from acceptance denominator: -0.00441 +/-  0.00616
+ True Top 2 from acceptance denominator: -0.00463 +/-  0.00675
+Subtract -2.89e-08 fakes from measured distribution
+SVD init 6 x 6 bins, kreg=3
+========= Variable: topCosTheta===================
+ Data: 0.012 +/-  0.00505
+ True Top: -0.00474 +/-  0.00103
+ Unfolded: 0.013 +/-  0.0111
+ True Top from acceptance denominator: -0.00474 +/-  0.00324
+0 AFB = 0.00489 +/- 0.00553
+1 AFB = 0.0179 +/- 0.0143
+2 AFB = 0.024 +/- 0.0191
+ True Top 0 from acceptance denominator: -0.00397 +/-  0.00462
+ True Top 1 from acceptance denominator: -0.00498 +/-  0.00616
+ True Top 2 from acceptance denominator: -0.00609 +/-  0.00675

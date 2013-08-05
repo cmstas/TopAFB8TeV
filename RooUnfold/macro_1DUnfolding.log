@@ -1,0 +1,99 @@
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.32/00   2 December 2011   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.32/00 (branches/v5-32-00-patches@42372, Jun 14 2012, 16:18:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+****************************
+* Welcome to ROOT v5.32/00 *
+****************************
+
+Processing macro_1DUnfolding.C...
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Info in <TSVDUnfold::Unfold>: Unfolding param: 3
+Info in <TSVDUnfold::Unfold>: Curvature of weight distribution: 0.001379
+Info in <TCanvas::Print>: pdf file D_lepChargeAsym.pdf has been created
+Info in <TCanvas::Print>: pdf file Response_lepChargeAsym.pdf has been created
+Info in <TCanvas::Print>: pdf file finalplot_unfolded_lepChargeAsym.pdf has been created
+Error in <TTree::SetBranchStatus>: unknown branch -> lep_azimuthal_asymmetry2_gen
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Info in <TSVDUnfold::Unfold>: Unfolding param: 3
+Info in <TSVDUnfold::Unfold>: Curvature of weight distribution: 0.000261
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_d
+Info in <TCanvas::Print>: pdf file D_lepAzimAsym2.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_resp
+Info in <TCanvas::Print>: pdf file Response_lepAzimAsym2.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_final
+Info in <TCanvas::Print>: pdf file finalplot_unfolded_lepAzimAsym2.pdf has been created
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Info in <TSVDUnfold::Unfold>: Unfolding param: 3
+Info in <TSVDUnfold::Unfold>: Curvature of weight distribution: 0.000081
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_d
+Info in <TCanvas::Print>: pdf file D_lepPlusCosTheta.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_resp
+Info in <TCanvas::Print>: pdf file Response_lepPlusCosTheta.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_final
+Info in <TCanvas::Print>: pdf file finalplot_unfolded_lepPlusCosTheta.pdf has been created
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Info in <TSVDUnfold::Unfold>: Unfolding param: 3
+Info in <TSVDUnfold::Unfold>: Curvature of weight distribution: 0.000397
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_d
+Info in <TCanvas::Print>: pdf file D_lepMinusCosTheta.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_resp
+Info in <TCanvas::Print>: pdf file Response_lepMinusCosTheta.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_final
+Info in <TCanvas::Print>: pdf file finalplot_unfolded_lepMinusCosTheta.pdf has been created
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Info in <TSVDUnfold::Unfold>: Unfolding param: 3
+Info in <TSVDUnfold::Unfold>: Curvature of weight distribution: 0.000188
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_d
+Info in <TCanvas::Print>: pdf file D_lepCosTheta.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_resp
+Info in <TCanvas::Print>: pdf file Response_lepCosTheta.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_final
+Info in <TCanvas::Print>: pdf file finalplot_unfolded_lepCosTheta.pdf has been created
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Info in <TSVDUnfold::Unfold>: Unfolding param: 3
+Info in <TSVDUnfold::Unfold>: Curvature of weight distribution: 0.000291
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_d
+Info in <TCanvas::Print>: pdf file D_topSpinCorr.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_resp
+Info in <TCanvas::Print>: pdf file Response_topSpinCorr.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_final
+Info in <TCanvas::Print>: pdf file finalplot_unfolded_topSpinCorr.pdf has been created
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Info in <TSVDUnfold::Unfold>: Unfolding param: 3
+Info in <TSVDUnfold::Unfold>: Curvature of weight distribution: 0.008502
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_d
+Info in <TCanvas::Print>: pdf file D_rapiditydiffMarco.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_resp
+Info in <TCanvas::Print>: pdf file Response_rapiditydiffMarco.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_final
+Info in <TCanvas::Print>: pdf file finalplot_unfolded_rapiditydiffMarco.pdf has been created
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+Info in <TSVDUnfold::Unfold>: Unfolding param: 3
+Info in <TSVDUnfold::Unfold>: Curvature of weight distribution: 0.036927
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_d
+Info in <TCanvas::Print>: pdf file D_topCosTheta.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_resp
+Info in <TCanvas::Print>: pdf file Response_topCosTheta.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c_final
+Info in <TCanvas::Print>: pdf file finalplot_unfolded_topCosTheta.pdf has been created
